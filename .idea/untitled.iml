@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="rbenv: jruby-9.3.2.0" jdkType="JRUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="after_do (v0.4.0, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="furoshiki (v0.6.1, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jruby-jars (v9.3.4.0, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jruby-rack (v1.1.21, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.4.1, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ocra (v1.3.11, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="plist (v3.6.0, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.3.0, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="shoes-core (v4.0.0.rc1, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="shoes-highlighter (v1.0.1, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="shoes-manual (v4.0.1, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="shoes-package (v4.0.0.rc1, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="shoes-swt (v4.0.0.rc1, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="swt (v4.6.1.1, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="warbler (v2.0.5, rbenv: jruby-9.3.2.0) [gem]" level="application" />
+  </component>
+</module>
