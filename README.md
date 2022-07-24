@@ -9,4 +9,4 @@ Macでrubyが消されるのでbrewとかも入れてもらわないといけな
 まぁ、とっかかりとしては良いのではないでしょうか？
 ```
 
-https://qiita.com/kojix2/items/1bf6b999973ea3bc17e6
+https://qiita.com/kojix2/items/47011057d3e9c730d6da
